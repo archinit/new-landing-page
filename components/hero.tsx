@@ -1,5 +1,5 @@
 export default function Hero() {
     return <div>
-        Hero updated
+        Hero updated by this
     </div>
 }
