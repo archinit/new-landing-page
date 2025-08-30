@@ -1,5 +1,5 @@
 export default function Nav2() {
     return <div>
-        Nav 2
+        Nav 2 Updated
     </div>
 }
